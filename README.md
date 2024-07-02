@@ -1,5 +1,7 @@
-(https://image-gallery-merve.netlify.app)
 
+
+
+(https://image-gallery-merve.netlify.app)
 
 # Getting Started with Create React App
 
